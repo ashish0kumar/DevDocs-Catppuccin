@@ -1,0 +1,49 @@
+/* ==UserStyle==
+@name           DevDocs Catppuccin
+@description    Soothing pastel theme for DevDocs
+@version        1.0
+@namespace      github.com/ashish0kumar/DevDocs-Catppuccin
+@homepageURL    https://github.com/ashish0kumar/DevDocs-Catppuccin
+@supportURL     https://github.com/ashish0kumar/DevDocs-Catppuccin/issues
+@author         ashish0kumar (https://github.com/ashish0kumar)
+@license        MIT
+==/UserStyle== */
+
+@-moz-document url-prefix("https://devdocs.io/") {
+    html._theme-dark {
+      --documentBackground: #1e1e2e !important;
+      --contentBackground: #1e1e2e !important;
+      --textColor: #bac2de !important;
+      --textColorLight: #cdd6f4 !important;
+      --textColorLighter: #cdd6f4 !important;
+      --focusBackground: #45475a !important;
+      --focusBorder: #11111b !important;
+      --focusText: #cdd6f4 !important;
+      --loadingText: #9399b2 !important;
+      --selectionBackground: #313244 !important;
+      --selectionBorder: #11111b !important;
+      --highlightBackground: #585b70 !important;
+      --linkColorHover: #cba6f7 !important;
+      --headerBackground: #11111b !important;
+      --headerBorder: #11111b !important;
+      --searchTagBackground: #11111b !important;
+      --searchBorder: #11111b !important;
+      --sidebarBackground: #181825 !important;
+      --sidebarBorder: #11111b !important;
+      --scrollbarColor: #6c7086 !important;
+      --scrollbarColorHover: #7f849c !important;
+      --boxHeaderColor: #cdd6f4 !important;
+      --noteBackground: #313244 !important;
+      --noteBorder: #11111b !important;
+      --noteGreenBackground: #284a2a;
+      --noteGreenBorder: #11111b !important;
+      --noteBlueBackground: #45475a !important;
+      --noteBlueBorder: #11111b !important;
+      --noteOrangeBackground: #563322;
+      --noteOrangeBorder: #11111b !important;
+      --noteRedBackground: #603033;
+      --noteRedBorder: #11111b !important;
+      --notifBackground: #45475a !important;
+      --notifBorder: 1px solid #11111b !important;
+    }
+}
