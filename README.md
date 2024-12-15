@@ -12,13 +12,10 @@
 
 <br/>
 
-<!--
 <p align="center">
 	<img src="previews/1.png"/><br/><br/>
   	<img src="previews/2.png"/><br/><br/>
-  	<img src="previews/3.png"/><br/><br/>
 </p>
--->
 
 
 ## 🚀 Installation
